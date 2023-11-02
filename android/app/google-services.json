@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831323032097",
+    "project_id": "dairy-deli",
+    "storage_bucket": "dairy-deli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831323032097:android:ca03efa068e4fd24223160",
+        "android_client_info": {
+          "package_name": "com.example.dairy_deliver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-bNkbsOnRyV_5nsED_SwoHiOSgHjQBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
